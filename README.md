@@ -8,6 +8,15 @@ The world is ever evolving and all the basic things are being digitalized from s
 The main objective of the Hotel Reservation System is to manage the details of Hotel, Rooms, Services, Customers. It manages all the Information about hotel Booking Customer, Hotel. The project is built at administrative end and thus only the administrator is guaranteed The access. The purpose of the project is to build an application program to reduce the manual work for managing the Hotel, Booking Rooms. It tracks all the details about the Rooms, Services, Customers. The technology used for this project includes HTML, CSS, JavaScript and PHP for front-end while phpMyadmin for the database management. 
 
 ## Key Features 
+1. User-Friendly Booking Interface
+2. Administration
+3. Real-Time Rooms Availability
+4. Diverse Room Selection
+5. Reservation Management
+6. A centralized database for guest profiles
+
+## GUI View
+
 ### 1. ADMIN-END
 
 #### Admin Login
@@ -33,29 +42,34 @@ The main objective of the Hotel Reservation System is to manage the details of H
 ### 2. USER-END
 
 #### Home Page
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/afa61517-af98-4926-a6f7-a3c8f9044a2b)
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/85436228-398e-4ea7-bfbe-0bb94f65b0d6)
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/f5caa1ef-539a-42ec-bec9-74a11ec114e9)
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/fc152f18-20e1-4301-89b2-f2f217745192)
+
 #### Rooms Page 
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/9602ce85-5d23-4eb7-8f6c-d3328b61446f)
+
 #### Facilities Page 
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/9dbcf783-85da-4a90-98da-47ad7f720623)
+
 #### Contact Us 
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/20891599-76a1-429c-84f4-bf307f4ddec5)
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/bc941a6a-d5ec-48bb-8ac4-8e6bae873795)
+
 #### About Us 
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/47c1c8f6-f43d-40fc-8347-9bb4831ccb51)
+
 #### Invoice 
+
 ![image](https://github.com/FarihaArif/Paradise-Inn/assets/114657374/e76c1460-13a7-422e-8b9d-bcb11198395a)
-
-
-
-
-
-
-
-
-
-
 
